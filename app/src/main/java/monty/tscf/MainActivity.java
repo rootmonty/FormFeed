@@ -20,6 +20,14 @@ import com.google.firebase.auth.FirebaseUser;
 
 public class MainActivity extends AppCompatActivity {
 
+    //first Iteration done
+    //For Second iteration what is to be done :
+    // Cardview implementation for teachers/clicking on which will take you to individual feedback form
+    //Colors to be taken care of and the template
+    //Coordinatorlayout ko edit karna hai to change the template design
+    //Try to implement a bottom tab layout with cardview images on the above frame
+
+
     private Button btnChangeEmail, btnChangePassword, btnSendResetEmail, btnRemoveUser,
             changeEmail, changePassword, sendEmail, remove, signOut;
 
